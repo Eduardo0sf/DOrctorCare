@@ -1,0 +1,73 @@
+html==(HyperText Markup language);
+
+
+css==(cascadian Style Sheets)
+
+
+padding-block: em cima e baixo,
+
+padding-inline: dos lados,
+
+margin a mesma coisa
+
+100% da fonte normal do broswer = 16px
+
+string (textos)
+
+Number (número)
+
+Boolean (true ou False)
+
+javascript 
+
+> maior que 
+
+display inline não aceita margin
+
+== igual
+
+if se for 
+
+else se não
+
+hyper link "a"
+
+mobal fist {
+    primeiro a parte do celular;
+}
+
+::before (antes do conteudo)
+
+::after (depois do conteudo)
+
+
+// codigos 
+#NeverStopLearning
+#NewSkills
+#StepByStep
+
+
+
+hsl (hen, saturantion, ligth)
+
+
+var = varable
+
+{objeto}
+
+
+objeto.fjdsn
+
+
+displays{
+    display block: mexe com as caixas ao redor
+    '' iline um elemento do lado do outro
+    '' flex trabalha com as caixas dentro dele,colocando um iten do lado do outro
+    ''grid a mesma coisa sem colocar um do lado outro (
+        pode definir colunas e linhas
+    )
+}
+
+
+
+
